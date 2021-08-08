@@ -1,0 +1,48 @@
+{
+  "name": "ancient-one-dark",
+  "description": "Violet color theme for the ancient ones",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "vsce package",
+    "release": "vsce publish"
+  },
+  "homepage": "https://github.com/holodata/ancient-one-dark",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/holodata/ancient-one-dark"
+  },
+  "license": "SEE LICENSE IN ./LICENSE",
+  "keywords": [
+    "hololive",
+    "inanis",
+    "ninomae"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ancient One Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ancient-One-Dark-color-theme.json"
+      },
+      {
+        "label": "Ancient One Dark - Violet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ancient-One-Dark-Violet-color-theme.json"
+      }
+    ]
+  },
+  "displayName": "Ancient One Dark",
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "galleryBanner": {
+    "color": "#30253D",
+    "theme": "dark"
+  },
+  "icon": "assets/icon.png",
+  "preview": true,
+  "publisher": "uetchy"
+}
