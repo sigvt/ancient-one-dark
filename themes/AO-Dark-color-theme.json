@@ -50,7 +50,7 @@
     "activityBar.activeBorder": "#F5BA51",
     "activityBar.activeFocusBorder": "#ecae7f",
     "activityBar.activeBackground": "#2b243d",
-    "activityBarBadge.background": "#B64C6E",
+    "activityBarBadge.background": "#ce5b94",
     "activityBarBadge.foreground": "#2C2140",
     "editorPane.background": "#292239",
     // "editor.background": "#312843",
@@ -74,10 +74,10 @@
     "editor.foldBackground": "#bcaee530",
     "editorError.foreground": "#f070a3",
     "editorWarning.foreground": "#fad13d",
-    "editorInfo.foreground": "#5437e6",
+    "editorInfo.foreground": "#8572e6",
     "problemsErrorIcon.foreground": "#f070a3",
     "problemsWarningIcon.foreground": "#fad13d",
-    "problemsInfoIcon.foreground": "#5437e6",
+    "problemsInfoIcon.foreground": "#8d79f0",
     "diffEditor.insertedTextBackground": "#6575bd30",
     "diffEditor.removedTextBackground": "#7c151535",
     "editorWidget.background": "#302843",
@@ -263,7 +263,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#bcaee5"
+        "foreground": "#8f7edf"
       }
     },
     {

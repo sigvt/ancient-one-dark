@@ -47,7 +47,7 @@
     "activityBar.background": "#1e1d31",
     "activityBar.inactiveForeground": "#a49fa8",
     "activityBar.dropBorder": "#8573b5",
-    "activityBarBadge.background": "#B64C6E",
+    "activityBarBadge.background": "#ce5b94",
     "activityBarBadge.foreground": "#2C2140",
     "activityBar.activeBorder": "#F2A162",
     "activityBar.activeFocusBorder": "#ecae7f",
@@ -55,7 +55,7 @@
     "editorPane.background": "#2D2B49",
     "editor.background": "#2e2946",
     "editor.foreground": "#DDDDE5",
-    "editorLineNumber.foreground": "#5e4e83",
+    "editorLineNumber.foreground": "#645a7c",
     "editorLineNumber.activeForeground": "#a8a2c8",
     "editorCursor.background": "#000000",
     "editorCursor.foreground": "#c6bfdd",
@@ -73,10 +73,10 @@
     "editor.foldBackground": "#bcaee530",
     "editorError.foreground": "#f070a3",
     "editorWarning.foreground": "#fad13d",
-    "editorInfo.foreground": "#5437e6",
+    "editorInfo.foreground": "#8572e6",
     "problemsErrorIcon.foreground": "#f070a3",
     "problemsWarningIcon.foreground": "#fad13d",
-    "problemsInfoIcon.foreground": "#5437e6",
+    "problemsInfoIcon.foreground": "#8d79f0",
     "diffEditor.insertedTextBackground": "#6575bd30",
     "diffEditor.removedTextBackground": "#7c151535",
     "editorWidget.background": "#302843",
@@ -91,8 +91,8 @@
     "editorMarkerNavigationInfo.background": "#5437e6",
     "peekViewResult.background": "#393050",
     "peekViewTitle.background": "#272036",
-    "panel.dropBorder": "#8573b5",
-    "panelTitle.activeBorder": "#8173b5",
+    "panel.dropBorder": "#8567d8",
+    "panelTitle.activeBorder": "#8971cc",
     "statusBar.background": "#1e1d31",
     "statusBar.foreground": "#b6b2c0",
     "statusBar.noFolderBackground": "#363452",
@@ -201,7 +201,7 @@
       "name": "Comments",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#705d9c"
+        "foreground": "#6b5d9c"
       }
     },
     {

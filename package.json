@@ -33,9 +33,9 @@
         "path": "./themes/AO-Dark-Violet-color-theme.json"
       },
       {
-        "label": "Ancient One Dark - Slate",
+        "label": "Ancient One Dark - Violet Ni",
         "uiTheme": "vs-dark",
-        "path": "./themes/AO-Dark-Slate-color-theme.json"
+        "path": "./themes/AO-Dark-Violet-Ni-color-theme.json"
       }
     ]
   },
