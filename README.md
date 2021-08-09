@@ -9,4 +9,4 @@
 
 ## Contribute
 
-Find a design glitch, or have an idea to improve the theme? Please [open an issue](https://github.com/holodata/ancient-one-dark/issues) on GitHub, or ask in the `#ancient-one-dark` channel on [holodata Discord](https://holodata.org/discord).
+Found a design glitch? Have ideas to improve the theme? Please [open an issue](https://github.com/holodata/ancient-one-dark/issues) on GitHub, or join `#ancient-one-dark` channel on [holodata Discord](https://holodata.org/discord).

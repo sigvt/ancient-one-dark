@@ -42,7 +42,7 @@
     "list.inactiveSelectionBackground": "#b573b425",
     "list.errorForeground": "#f070a3",
     "list.warningForeground": "#fad13d",
-    "statusBarItem.remoteBackground": "#E09244",
+    "statusBarItem.remoteBackground": "#B64C6E",
     "statusBarItem.remoteForeground": "#272036",
     "activityBar.background": "#272036",
     "activityBar.inactiveForeground": "#a49fa8",
