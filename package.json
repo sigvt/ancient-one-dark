@@ -25,12 +25,17 @@
       {
         "label": "Ancient One Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Ancient-One-Dark-color-theme.json"
+        "path": "./themes/AO-Dark-color-theme.json"
       },
       {
         "label": "Ancient One Dark - Violet",
         "uiTheme": "vs-dark",
-        "path": "./themes/Ancient-One-Dark-Violet-color-theme.json"
+        "path": "./themes/AO-Dark-Violet-color-theme.json"
+      },
+      {
+        "label": "Ancient One Dark - Slate",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AO-Dark-Slate-color-theme.json"
       }
     ]
   },
