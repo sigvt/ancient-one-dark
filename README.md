@@ -13,6 +13,6 @@ Found a design glitch? Have ideas to improve the theme? Please [open an issue](h
 
 ## FAQ
 
-### `Unable to install ... extension because it is not compatible with the current version of VS Code`
+### **Unable to install ... extension because it is not compatible with the current version of VS Code**
 
 Update your VS Code to the latest version to install the theme.
