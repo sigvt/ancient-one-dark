@@ -95,6 +95,7 @@
     "panelTitle.activeBorder": "#6B71C4",
     "statusBar.background": "#1B1E1D",
     "statusBar.foreground": "#b6b2c0",
+    "statusBar.debuggingBackground": "#5b498d",
     "statusBar.noFolderBackground": "#363452",
     "statusBarItem.hoverBackground": "#696277",
     "statusBarItem.prominentBackground": "#b573b4",
