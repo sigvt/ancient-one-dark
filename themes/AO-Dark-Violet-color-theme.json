@@ -162,7 +162,12 @@
     "gitDecoration.untrackedResourceForeground": "#79cfb3",
     "gitDecoration.ignoredResourceForeground": "#675975",
     "settings.modifiedItemIndicator": "#dfc05a",
-    "editor.selectionHighlightBorder": "#7368b3"
+    "editor.selectionHighlightBorder": "#7368b3",
+    "peekView.border": "#453ba3",
+		"peekViewEditorGutter.background": "#1a163b",
+		"peekViewEditor.background": "#1a163b",
+    "peekViewEditor.matchHighlightBackground": "#a471b862",
+    "peekViewResult.matchHighlightBackground": "#a471b862",
   },
   "tokenColors": [
     {
