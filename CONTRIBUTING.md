@@ -21,6 +21,12 @@
 - To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
 - To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
 
-# References
+## Publish
+
+```bash
+vsce publish <major|minor|patch>
+```
+
+## References
 
 - [Extension Manifest | Visual Studio Code Extension API](https://code.visualstudio.com/api/references/extension-manifest)
