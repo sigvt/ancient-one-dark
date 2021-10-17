@@ -161,7 +161,7 @@
     "gitDecoration.stageDeletedResourceForeground": "#F07171",
     "gitDecoration.stageModifiedResourceForeground": "#e0bc58",
     "gitDecoration.untrackedResourceForeground": "#79cfb3",
-    "gitDecoration.ignoredResourceForeground": "#675975",
+    "gitDecoration.ignoredResourceForeground": "#7f7588",
     "settings.modifiedItemIndicator": "#dfc05a",
     "editor.selectionHighlightBorder": "#8a68b3",
 		"peekViewEditorGutter.background": "#20163b",
@@ -208,7 +208,7 @@
       "name": "Comments",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#705d9c"
+        "foreground": "#73688d"
       }
     },
     {

@@ -160,7 +160,7 @@
     "gitDecoration.stageDeletedResourceForeground": "#F07171",
     "gitDecoration.stageModifiedResourceForeground": "#e0bc58",
     "gitDecoration.untrackedResourceForeground": "#79cfb3",
-    "gitDecoration.ignoredResourceForeground": "#625f6d",
+    "gitDecoration.ignoredResourceForeground": "#7b7a80",
     "settings.modifiedItemIndicator": "#dfc05a",
     "editor.selectionHighlightBorder": "#7368b3",
 		"peekViewEditorGutter.background": "#20163b",
@@ -200,14 +200,14 @@
         "string.interpolated.pug variable"
       ],
       "settings": {
-        "foreground": "#d6cfdb"
+        "foreground": "#bea7e7"
       }
     },
     {
       "name": "Comments",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#665d9c"
+        "foreground": "#5c5b63"
       }
     },
     {
@@ -241,7 +241,7 @@
         "meta.type.parameters entity.name.type"
       ],
       "settings": {
-        "foreground": "#b573b4"
+        "foreground": "#e079df"
       }
     },
     {
@@ -255,7 +255,7 @@
         "keyword.operator.new"
       ],
       "settings": {
-        "foreground": "#bba5d4"
+        "foreground": "#9288a1"
       }
     },
     {
@@ -268,7 +268,8 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#6B71C4"
+        "foreground": "#998efa",
+        "fontStyle": "bold"
       }
     },
     {
@@ -296,7 +297,7 @@
       "name": "Constant (numeric) (language, for instance, NaN, undefined, Infinity for JS/TS),",
       "scope": ["constant.numeric", "constant.language"],
       "settings": {
-        "foreground": "#6B71C4"
+        "foreground": "#7179e9"
       }
     },
     {
@@ -308,7 +309,7 @@
         "source.rust meta.type_params.rust"
       ],
       "settings": {
-        "foreground": "#6B71C4"
+        "foreground": "#da5e85"
       }
     },
     {

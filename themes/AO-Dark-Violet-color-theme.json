@@ -160,7 +160,7 @@
     "gitDecoration.stageDeletedResourceForeground": "#F07171",
     "gitDecoration.stageModifiedResourceForeground": "#e0bc58",
     "gitDecoration.untrackedResourceForeground": "#79cfb3",
-    "gitDecoration.ignoredResourceForeground": "#675975",
+    "gitDecoration.ignoredResourceForeground": "#887a96",
     "settings.modifiedItemIndicator": "#dfc05a",
     "editor.selectionHighlightBorder": "#7368b3",
     "peekView.border": "#453ba3",
@@ -200,14 +200,14 @@
         "string.interpolated.pug variable"
       ],
       "settings": {
-        "foreground": "#d6cfdb"
+        "foreground": "#8ea3d4"
       }
     },
     {
       "name": "Comments",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#6b5d9c"
+        "foreground": "#7f729c"
       }
     },
     {
@@ -241,7 +241,7 @@
         "meta.type.parameters entity.name.type"
       ],
       "settings": {
-        "foreground": "#b573b4"
+        "foreground": "#B64C6E"
       }
     },
     {
@@ -255,7 +255,7 @@
         "keyword.operator.new"
       ],
       "settings": {
-        "foreground": "#bba5d4"
+        "foreground": "#c6c3d6"
       }
     },
     {
@@ -268,7 +268,8 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#bcaee5"
+        "foreground": "#907de6"
+        // "foreground": "#bcaee5"
       }
     },
     {
@@ -308,14 +309,14 @@
         "source.rust meta.type_params.rust"
       ],
       "settings": {
-        "foreground": "#c36586"
+        "foreground": "#8ea3d4"
       }
     },
     {
       "name": "Punctuation",
       "scope": ["punctuation", "meta.brace"],
       "settings": {
-        "foreground": "#98939b"
+        "foreground": "#c5bfcc"
       }
     },
     {
