@@ -200,7 +200,7 @@
         "string.interpolated.pug variable"
       ],
       "settings": {
-        "foreground": "#bea7e7"
+        "foreground": "#cecad8"
       }
     },
     {
@@ -228,7 +228,7 @@
       "name": "Keyword",
       "scope": ["keyword", "constant.language.import-export-all"],
       "settings": {
-        "foreground": "#8c76c0"
+        "foreground": "#8d78c0"
       }
     },
     {
@@ -241,7 +241,7 @@
         "meta.type.parameters entity.name.type"
       ],
       "settings": {
-        "foreground": "#e079df"
+        "foreground": "#9868d6"
       }
     },
     {
@@ -255,7 +255,7 @@
         "keyword.operator.new"
       ],
       "settings": {
-        "foreground": "#9288a1"
+        "foreground": "#b9b0ec"
       }
     },
     {
@@ -268,7 +268,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#998efa"
+        "foreground": "#7e7cf5"
       }
     },
     {
@@ -296,7 +296,7 @@
       "name": "Constant (numeric) (language, for instance, NaN, undefined, Infinity for JS/TS),",
       "scope": ["constant.numeric", "constant.language"],
       "settings": {
-        "foreground": "#7179e9"
+        "foreground": "#ca616f"
       }
     },
     {
@@ -308,7 +308,7 @@
         "source.rust meta.type_params.rust"
       ],
       "settings": {
-        "foreground": "#da5e85"
+        "foreground": "#cecad8"
       }
     },
     {
@@ -548,7 +548,7 @@
       "name": "[JSON] property name",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#8c76c0"
+        "foreground": "#967bd6"
       }
     },
     {
