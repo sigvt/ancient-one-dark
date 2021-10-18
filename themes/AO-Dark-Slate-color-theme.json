@@ -163,11 +163,11 @@
     "gitDecoration.ignoredResourceForeground": "#7b7a80",
     "settings.modifiedItemIndicator": "#dfc05a",
     "editor.selectionHighlightBorder": "#7368b3",
-		"peekViewEditorGutter.background": "#20163b",
+    "peekViewEditorGutter.background": "#20163b",
     "peekView.border": "#563ba3",
-		"peekViewEditor.background": "#20163b",
+    "peekViewEditor.background": "#20163b",
     "peekViewEditor.matchHighlightBackground": "#a471b862",
-    "peekViewResult.matchHighlightBackground": "#a471b862",
+    "peekViewResult.matchHighlightBackground": "#a471b862"
   },
   "tokenColors": [
     {
@@ -268,8 +268,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#998efa",
-        "fontStyle": "bold"
+        "foreground": "#998efa"
       }
     },
     {
