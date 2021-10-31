@@ -200,7 +200,7 @@
         "string.interpolated.pug variable"
       ],
       "settings": {
-        "foreground": "#8ea3d4"
+        "foreground": "#c4c2ce"
       }
     },
     {
@@ -255,7 +255,7 @@
         "keyword.operator.new"
       ],
       "settings": {
-        "foreground": "#c6c3d6"
+        "foreground": "#b3a4fa"
       }
     },
     {
@@ -268,7 +268,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#907de6"
+        "foreground": "#967eff"
         // "foreground": "#bcaee5"
       }
     },
