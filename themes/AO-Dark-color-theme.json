@@ -169,6 +169,8 @@
 		"peekViewEditor.background": "#20163b",
     "peekViewEditor.matchHighlightBackground": "#a471b862",
     "peekViewResult.matchHighlightBackground": "#a471b862",
+    "editorInlayHint.background": "#00000036",
+    "editorInlayHint.foreground": "#9881a8"
   },
   "tokenColors": [
     {

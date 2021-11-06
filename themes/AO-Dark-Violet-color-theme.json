@@ -153,12 +153,12 @@
     "editorOverviewRuler.bracketMatchForeground": "#b573b4",
     "minimapGutter.addedBackground": "#6452cc",
     "minimapGutter.deletedBackground": "#F07171",
-    "minimapGutter.modifiedBackground": "#e0bc58",
-    "gitDecoration.addedResourceForeground": "#756ad3",
-    "gitDecoration.modifiedResourceForeground": "#e0bc58",
+    "minimapGutter.modifiedBackground": "#f0cb65",
+    "gitDecoration.addedResourceForeground": "#857aec",
+    "gitDecoration.modifiedResourceForeground": "#d4c16d",
     "gitDecoration.deletedResourceForeground": "#F07171",
     "gitDecoration.stageDeletedResourceForeground": "#F07171",
-    "gitDecoration.stageModifiedResourceForeground": "#e0bc58",
+    "gitDecoration.stageModifiedResourceForeground": "#f0d487",
     "gitDecoration.untrackedResourceForeground": "#79cfb3",
     "gitDecoration.ignoredResourceForeground": "#887a96",
     "settings.modifiedItemIndicator": "#dfc05a",
@@ -168,6 +168,8 @@
 		"peekViewEditor.background": "#1a163b",
     "peekViewEditor.matchHighlightBackground": "#a471b862",
     "peekViewResult.matchHighlightBackground": "#a471b862",
+    "editorInlayHint.background": "#00000036",
+    "editorInlayHint.foreground": "#8f81a8"
   },
   "tokenColors": [
     {
@@ -255,7 +257,7 @@
         "keyword.operator.new"
       ],
       "settings": {
-        "foreground": "#b3a4fa"
+        "foreground": "#bca1e7"
       }
     },
     {
@@ -269,7 +271,6 @@
       ],
       "settings": {
         "foreground": "#967eff"
-        // "foreground": "#bcaee5"
       }
     },
     {
@@ -309,7 +310,7 @@
         "source.rust meta.type_params.rust"
       ],
       "settings": {
-        "foreground": "#8ea3d4"
+        "foreground": "#f17171"
       }
     },
     {

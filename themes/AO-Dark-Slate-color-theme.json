@@ -151,10 +151,10 @@
     "editorOverviewRuler.warningForeground": "#fa3d7c",
     "editorOverviewRuler.infoForeground": "#7f6be4",
     "editorOverviewRuler.bracketMatchForeground": "#b573b4",
-    "minimapGutter.addedBackground": "#6452cc",
+    "minimapGutter.addedBackground": "#7763e9",
     "minimapGutter.deletedBackground": "#F07171",
     "minimapGutter.modifiedBackground": "#e0bc58",
-    "gitDecoration.addedResourceForeground": "#756ad3",
+    "gitDecoration.addedResourceForeground": "#857aeb",
     "gitDecoration.modifiedResourceForeground": "#e0bc58",
     "gitDecoration.deletedResourceForeground": "#F07171",
     "gitDecoration.stageDeletedResourceForeground": "#F07171",
@@ -167,7 +167,9 @@
     "peekView.border": "#563ba3",
     "peekViewEditor.background": "#20163b",
     "peekViewEditor.matchHighlightBackground": "#a471b862",
-    "peekViewResult.matchHighlightBackground": "#a471b862"
+    "peekViewResult.matchHighlightBackground": "#a471b862",
+    "editorInlayHint.background": "#0000003a",
+    "editorInlayHint.foreground": "#7e7e7e"
   },
   "tokenColors": [
     {
