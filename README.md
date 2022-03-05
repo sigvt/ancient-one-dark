@@ -7,6 +7,23 @@
 
 ![screenshot](./assets/cover.jpg)
 
+## Playground
+
+Go to [vscode.dev](https://vscode.dev/theme/uetchy.ancient-one-dark) and play around with Ancient One Dark right in your web browser!
+
+## Recommended Fonts
+
+- [JetBrains Mono](https://jetbrains.com/mono)
+- [Fira Code](https://github.com/tonsky/FiraCode)
+- [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/)
+- [Cascadia Code](https://github.com/microsoft/cascadia-code)
+
+## Official Ports
+
+- [Emacs](https://melpa.org/#/ancient-one-dark-theme) - [🦄 GitHub](https://github.com/holodata/ancient-one-dark-emacs) (ported by [@DaniruKun](https://github.com/DaniruKun))
+- [iTerm2](https://raw.githubusercontent.com/holodata/ancient-one-dark/master/iterm/Ancient%20One%20Dark.itermcolors)
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ancient-one-dark/)
+
 ## Contribute
 
 Found a design glitch? Have ideas to improve the theme? Please [open an issue](https://github.com/holodata/ancient-one-dark/issues) on GitHub, or join `#ancient-one-dark` channel on [holodata Discord](https://holodata.org/discord).
