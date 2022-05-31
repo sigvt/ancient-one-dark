@@ -5,6 +5,10 @@
     "statusBarItem.remoteBackground": "#ecae7f",
     "statusBarItem.remoteForeground": "#272036",
 
+    "foreground": "#c0bbcb",
+    "editor.foreground": "#c0bbcb",
+    "statusBar.foreground": "#c0bbcb",
+
     // "editor.background": "#312843",
     "editor.background": "#2b203f",
     "minimap.background": "#2b203f",
@@ -54,7 +58,6 @@
     "gitDecoration.ignoredResourceForeground": "#7f7588",
 
     "focusBorder": "#9773b5",
-    "foreground": "#d6cfdb",
     "widget.shadow": "#191523",
     "selection.background": "#a273b580",
     "errorForeground": "#f070a3",
@@ -100,7 +103,6 @@
     "activityBarBadge.background": "#ce5b94",
     "activityBarBadge.foreground": "#2C2140",
     "editorPane.background": "#292239",
-    "editor.foreground": "#d6cfdb",
     "editorLineNumber.foreground": "#614e83",
     "editorLineNumber.activeForeground": "#ada2c8",
     "editorCursor.background": "#000000",
@@ -136,7 +138,6 @@
     "peekViewResult.background": "#393050",
     "panel.dropBorder": "#b573b4",
     "panelTitle.activeBorder": "#b573b4",
-    "statusBar.foreground": "#d6cfdb",
     "statusBar.debuggingBackground": "#5b498d",
     "statusBarItem.hoverBackground": "#392f50",
     "statusBarItem.prominentBackground": "#b573b4",
@@ -249,7 +250,7 @@
       "name": "Strings",
       "scope": ["string", "punctuation.definition.string"],
       "settings": {
-        "foreground": "#FBD089"
+        "foreground": "#e6be7d"
       }
     },
     {
@@ -290,7 +291,7 @@
         "meta.type.parameters entity.name.type"
       ],
       "settings": {
-        "foreground": "#b573b4"
+        "foreground": "#5aa1db"
       }
     },
     {
@@ -362,13 +363,13 @@
     //     "foreground": "#98939b"
     //   }
     // },
-    // {
-    //   "name": "[HTML] tag name",
-    //   "scope": "entity.name.tag",
-    //   "settings": {
-    //     "foreground": "#bba5d4"
-    //   }
-    // },
+    {
+      "name": "[HTML] tag name",
+      "scope": "entity.name.tag",
+      "settings": {
+        "foreground": "#bba5d4"
+      }
+    },
     // {
     //   "name": "[HTML] String inside tag (attribute name)",
     //   "scope": "meta.tag string",
