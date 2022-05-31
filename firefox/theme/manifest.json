@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "version": "1.3",
+  "name": "Ancient One Dark",
+  "theme": {
+    "images": {
+      "additional_backgrounds": ["images/0.png"]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": ["center center"],
+      "additional_backgrounds_tiling": ["repeat"]
+    },
+    "colors": {
+      "toolbar": "rgb(49, 42, 78)",
+      "toolbar_text": "rgb(213, 208, 222)",
+      "frame": "rgb(25, 21, 42)",
+      "tab_background_text": "rgb(171, 165, 189)",
+      "toolbar_field": "rgb(61, 54, 91)",
+      "toolbar_field_text": "rgb(228, 223, 235)",
+      "tab_line": "rgb(254, 201, 85)",
+      "popup": "rgb(49, 42, 78)",
+      "popup_text": "rgb(211, 207, 219)",
+      "popup_border": "rgb(75, 64, 118)",
+      "tab_loading": "rgb(254, 201, 85)"
+    }
+  }
+}
