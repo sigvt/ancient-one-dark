@@ -20,9 +20,19 @@ Go to [vscode.dev](https://vscode.dev/theme/uetchy.ancient-one-dark) and play ar
 
 ## Official Ports
 
-- [Emacs](https://melpa.org/#/ancient-one-dark-theme) - [🦄 GitHub](https://github.com/holodata/ancient-one-dark-emacs) (ported by [@DaniruKun](https://github.com/DaniruKun))
-- [iTerm2](https://raw.githubusercontent.com/holodata/ancient-one-dark/master/iterm/Ancient%20One%20Dark.itermcolors)
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ancient-one-dark/)
+### [Emacs](https://melpa.org/#/ancient-one-dark-theme)
+
+![Ruby mode](https://github.com/holodata/ancient-one-dark-emacs/blob/master/screenshots/one-dark-ruby-mode.png?raw=true)
+
+[🦄 GitHub](https://github.com/holodata/ancient-one-dark-emacs)
+
+> Ported by [Daniils Petrovs](https://github.com/DaniruKun)
+
+### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ancient-one-dark/)
+
+![screenshot](https://github.com/holodata/ancient-one-dark/blob/master/.github/ff.png?raw=true)
+
+### [iTerm2](https://raw.githubusercontent.com/holodata/ancient-one-dark/master/iterm/Ancient%20One%20Dark.itermcolors)
 
 ## Contribute
 
