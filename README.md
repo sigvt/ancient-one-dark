@@ -28,6 +28,14 @@ Go to [vscode.dev](https://vscode.dev/theme/uetchy.ancient-one-dark) and play ar
 
 > Ported by [Daniils Petrovs](https://github.com/DaniruKun)
 
+### Micro
+
+![Micro](https://github.com/holodata/ancient-one-dark-micro/blob/main/.github/screenshot.png?raw=true)
+
+[🦄 GitHub](https://github.com/holodata/ancient-one-dark-micro)
+
+> Ported by [Lukas](https://github.com/Luk4sWorld)
+
 ### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ancient-one-dark/)
 
 ![screenshot](https://github.com/holodata/ancient-one-dark/blob/master/.github/ff.png?raw=true)
