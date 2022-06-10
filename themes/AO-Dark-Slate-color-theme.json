@@ -2,7 +2,7 @@
   "name": "Ancient One Dark - Violet Ni",
   "type": "dark",
   "colors": {
-    "foreground": "#c0bbcb",
+    "foreground": "#aba6b5",
     "editor.foreground": "#c0bbcb",
 
     "editorPane.background": "#222223",
@@ -170,7 +170,7 @@
     "editorGroup.border": "#272036",
     "editorGroup.dropBackground": "#b573b430",
     "tab.activeModifiedBorder": "#e0bc58",
-    "tab.activeBorderTop": "#6B71C4",
+    "tab.activeBorderTop": "#FEC955",
     "tab.border": "#00000000",
     "tab.activeBorder": "#df9f9f00",
     "tab.lastPinnedBorder": "#b573b450",
@@ -235,7 +235,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#d96af2"
+        "foreground": "#c776dd"
       }
     },
     {
@@ -283,7 +283,7 @@
       "name": "Strings",
       "scope": ["string", "punctuation.definition.string"],
       "settings": {
-        "foreground": "#c5a36b"
+        "foreground": "#c9a974"
       }
     },
     {
