@@ -30,7 +30,7 @@ Go to [vscode.dev](https://vscode.dev/theme/uetchy.ancient-one-dark) and play ar
 
 ### Micro
 
-![Micro](https://github.com/holodata/ancient-one-dark-micro/blob/main/.github/screenshot.png?raw=true)
+![Micro](https://github.com/holodata/ancient-one-dark-micro/blob/main/.github/AO-Dark-color-theme.png?raw=true)
 
 [🦄 GitHub](https://github.com/holodata/ancient-one-dark-micro)
 
