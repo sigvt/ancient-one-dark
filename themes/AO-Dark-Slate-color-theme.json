@@ -4,6 +4,8 @@
   "colors": {
     "foreground": "#aba6b5",
     "editor.foreground": "#c0bbcb",
+    "statusBarItem.remoteBackground": "#c9c6cf",
+    "statusBarItem.remoteForeground": "#2D2B49",
 
     "editorPane.background": "#222223",
     "list.activeSelectionBackground": "#8c73b520",
@@ -93,8 +95,6 @@
     "badge.background": "#A2AFCE",
     "badge.foreground": "#2C2140",
     "progressBar.background": "#8573b5",
-    "statusBarItem.remoteBackground": "#c9c6cf",
-    "statusBarItem.remoteForeground": "#2D2B49",
     "activityBar.inactiveForeground": "#a49fa8",
     "activityBar.dropBorder": "#8573b5",
     "activityBarBadge.background": "#E5E1EE",

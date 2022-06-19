@@ -4,6 +4,7 @@
   "colors": {
     "statusBarItem.remoteBackground": "#ecae7f",
     "statusBarItem.remoteForeground": "#272036",
+    "statusBarItem.hoverBackground": "#74429b",
 
     "foreground": "#c0bbcb",
     "editor.foreground": "#c0bbcb",
@@ -139,7 +140,6 @@
     "panel.dropBorder": "#b573b4",
     "panelTitle.activeBorder": "#b573b4",
     "statusBar.debuggingBackground": "#5b498d",
-    "statusBarItem.hoverBackground": "#392f50",
     "statusBarItem.prominentBackground": "#b573b4",
     "statusBarItem.prominentForeground": "#000000",
     "statusBarItem.prominentHoverBackground": "#9c639a",

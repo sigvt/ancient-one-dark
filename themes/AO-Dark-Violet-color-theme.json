@@ -11,6 +11,10 @@
     "editorIndentGuide.background": "#393252",
     "editorIndentGuide.activeBackground": "#7559b8",
 
+    "statusBarItem.remoteBackground": "#ecae7f",
+    "statusBarItem.remoteForeground": "#2D2B49",
+    "statusBarItem.hoverBackground": "#624e92",
+
     "editor.foreground": "#c0bbcb",
     "foreground": "#c0bbcb",
 
@@ -46,12 +50,9 @@
 
     "statusBar.debuggingBackground": "#4a3b72",
     "statusBar.foreground": "#b6b2c0",
-    "statusBarItem.hoverBackground": "#392f50",
     "statusBarItem.prominentBackground": "#b573b4",
     "statusBarItem.prominentForeground": "#000000",
     "statusBarItem.prominentHoverBackground": "#9c639a",
-    "statusBarItem.remoteBackground": "#ecae7f",
-    "statusBarItem.remoteForeground": "#2D2B49",
 
     // Color indicator
     "editorOverviewRuler.border": "#42375d",
