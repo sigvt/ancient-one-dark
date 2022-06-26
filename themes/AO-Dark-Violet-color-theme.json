@@ -201,20 +201,6 @@
       }
     },
     {
-      "name": "Strings",
-      "scope": ["string", "punctuation.definition.string"],
-      "settings": {
-        "foreground": "#d5b37b"
-      }
-    },
-    {
-      "name": "[HTML] String inside tag (attribute name)",
-      "scope": "meta.tag string",
-      "settings": {
-        "foreground": "#d5b37b"
-      }
-    },
-    {
       "name": "Variables",
       "scope": [
         "variable",
@@ -226,7 +212,7 @@
         "string.interpolated.pug variable"
       ],
       "settings": {
-        "foreground": "#a47cff"
+        "foreground": "#d6d6eb"
       }
     },
     {
@@ -238,7 +224,52 @@
         "source.rust meta.type_params.rust"
       ],
       "settings": {
-        "foreground": "#a37cff"
+        "foreground": "#c884ff"
+      }
+    },
+    {
+      "name": "Keyword",
+      "scope": [
+        "keyword",
+        "constant.language.import-export-all",
+        "keyword.control",
+        "keyword.operator",
+        "storage",
+        "support.type",
+        "keyword.operator.expression",
+        "keyword.operator.new"
+      ],
+      "settings": {
+        "foreground": "#8087ee"
+      }
+    },
+    {
+      "name": "Punctuation",
+      "scope": ["punctuation", "meta.brace"],
+      "settings": {
+        "foreground": "#615b98"
+      }
+    },
+    {
+      "name": "Strings",
+      "scope": ["string", "punctuation.definition.string"],
+      "settings": {
+        // "foreground": "#F5BA51"
+        "foreground": "#ddb672"
+      }
+    },
+    {
+      "name": "[HTML] String inside tag (attribute name)",
+      "scope": "meta.tag string",
+      "settings": {
+        "foreground": "#ddb672"
+      }
+    },
+    {
+      "name": "[Markdown] Header",
+      "scope": ["entity.name.section.markdown", "markup.heading.setext"],
+      "settings": {
+        "foreground": "#ddb672"
       }
     },
     {
@@ -251,21 +282,22 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#f185df"
+        // "foreground": "#f185df"
+        "foreground": "#fe719e"
       }
     },
     {
       "name": "Tag name",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#f185df"
+        "foreground": "#fe719e"
       }
     },
     {
       "name": "Property name",
       "scope": ["meta.property-name", "support.type.property-name"],
       "settings": {
-        "foreground": "#f185df"
+        "foreground": "#fe719e"
       }
     },
     {
@@ -276,7 +308,7 @@
         "support.constant.property-value"
       ],
       "settings": {
-        "foreground": "#2be168"
+        "foreground": "#63ee92"
       }
     },
     {
@@ -287,31 +319,21 @@
       }
     },
     {
+      "name": "[Markdown] link itself [...](LINK)",
+      "scope": [
+        "link",
+        "markup.underline.link",
+        "constant.other.reference.link.markdown"
+      ],
+      "settings": {
+        "foreground": "#7f729c"
+      }
+    },
+    {
       "name": "Escape character (\n, \t ...)",
       "scope": "constant.character.escape",
       "settings": {
         "foreground": "#dbc7f1"
-      }
-    },
-    {
-      "name": "Keyword",
-      "scope": ["keyword", "constant.language.import-export-all"],
-      "settings": {
-        "foreground": "#a784ff"
-      }
-    },
-    {
-      "name": "Keyword (import), operator (+-=)",
-      "scope": [
-        "keyword.control",
-        "keyword.operator",
-        "storage",
-        "support.type",
-        "keyword.operator.expression",
-        "keyword.operator.new"
-      ],
-      "settings": {
-        "foreground": "#cabcee"
       }
     },
     {
@@ -331,10 +353,11 @@
         "support.type.primitive",
         "support.type.builtin",
         "meta.type.annotation entity.name.type",
-        "meta.type.parameters entity.name.type"
+        "meta.type.parameters entity.name.type",
+        "storage.type.byte"
       ],
       "settings": {
-        "foreground": "#6daae4"
+        "foreground": "#75bcff"
       }
     },
     {
@@ -355,7 +378,7 @@
       "name": "Constant",
       "scope": "constant",
       "settings": {
-        "foreground": "#ed6e9a"
+        "foreground": "#f8a066"
       }
     },
     // {
@@ -366,25 +389,11 @@
     //   }
     // },
     {
-      "name": "Punctuation",
-      "scope": ["punctuation", "meta.brace"],
-      "settings": {
-        "foreground": "#9f92bc"
-      }
-    },
-    {
       "name": "this/self",
       "scope": ["variable.language.this", "variable.language.special.self"],
       "settings": {
         "foreground": "#d5a7e0",
         "fontStyle": "italic"
-      }
-    },
-    {
-      "name": "[Markdown] Header",
-      "scope": ["entity.name.section.markdown", "markup.heading.setext"],
-      "settings": {
-        "foreground": "#ac92e9"
       }
     },
     // {
@@ -474,17 +483,6 @@
     //   ],
     //   "settings": {
     //     "foreground": "#98939b"
-    //   }
-    // },
-    // {
-    //   "name": "[Markdown] link itself [...](LINK)",
-    //   "scope": [
-    //     "link",
-    //     "markup.underline.link",
-    //     "constant.other.reference.link.markdown"
-    //   ],
-    //   "settings": {
-    //     "foreground": "#bcaee5"
     //   }
     // },
     // {
