@@ -239,6 +239,13 @@
       }
     },
     {
+      "name": "[Markdown] inline code `text`",
+      "scope": "markup.inline.raw",
+      "settings": {
+        "foreground": "#c776dd"
+      }
+    },
+    {
       "name": "Keyword",
       "scope": ["keyword", "constant.language.import-export-all"],
       "settings": {
@@ -412,13 +419,6 @@
       "scope": "meta.separator.markdown",
       "settings": {
         "foreground": "#8c76c0"
-      }
-    },
-    {
-      "name": "[Markdown] inline code `text`",
-      "scope": "markup.inline.raw",
-      "settings": {
-        "foreground": "#bba5d4"
       }
     },
     {

@@ -244,10 +244,17 @@
       }
     },
     {
+      "name": "[Markdown] inline code `text`",
+      "scope": "markup.inline.raw",
+      "settings": {
+        "foreground": "#8087ee"
+      }
+    },
+    {
       "name": "Punctuation",
       "scope": ["punctuation", "meta.brace"],
       "settings": {
-        "foreground": "#615b98"
+        "foreground": "#9793b5"
       }
     },
     {
@@ -452,13 +459,6 @@
     //   "scope": "meta.separator.markdown",
     //   "settings": {
     //     "foreground": "#8c76c0"
-    //   }
-    // },
-    // {
-    //   "name": "[Markdown] inline code `text`",
-    //   "scope": "markup.inline.raw",
-    //   "settings": {
-    //     "foreground": "#bba5d4"
     //   }
     // },
     // {

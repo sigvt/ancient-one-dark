@@ -240,6 +240,13 @@
       }
     },
     {
+      "name": "[Markdown] inline code `text`",
+      "scope": "markup.inline.raw",
+      "settings": {
+        "foreground": "#e678e8"
+      }
+    },
+    {
       "name": "Comments",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
@@ -413,13 +420,6 @@
       "scope": "meta.separator.markdown",
       "settings": {
         "foreground": "#8c76c0"
-      }
-    },
-    {
-      "name": "[Markdown] inline code `text`",
-      "scope": "markup.inline.raw",
-      "settings": {
-        "foreground": "#bba5d4"
       }
     },
     {
